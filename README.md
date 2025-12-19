@@ -14,7 +14,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Verdana&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=husknader+only+%E2%80%A2+no+multiship+%E2%80%A2+no+cp+war" />
+<img src="https://readme-typing-svg.demolab.com?font=Verdana&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=husknader+only" />
 
 <br>
 
