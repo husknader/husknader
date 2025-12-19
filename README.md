@@ -18,8 +18,6 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Verdana&pause=1000&color=AAAAAA&center=true&vCenter=true&width=600&lines=this+profile+is+not+ship-friendly" />
-
 </div>
 
 <hr width="60%">
